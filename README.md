@@ -13,7 +13,7 @@ Project containing coding practice problems.
 
   1. Clone this repo.
   2. In a terminal, navigate to the cloned repo and run `docker build -t codingpractice .`
-  3. Run `docker run -t codingpracticee`.  This will build the project and run all tests. 
+  3. Run `docker run -t codingpractice`.  This will build the project and run all tests. 
   
   
 ## Running
