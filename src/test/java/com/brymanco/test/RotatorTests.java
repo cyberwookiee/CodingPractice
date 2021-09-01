@@ -33,19 +33,19 @@ public class RotatorTests {
 
         image.setRGB(0, 0, image.getWidth(), image.getHeight(), rgbArray, 0, image.getWidth());
 
-        JLabel label = new JLabel(new ImageIcon(image));
-
-        panel.add(label);
-
-        JFrame.setDefaultLookAndFeelDecorated(true);
-        JFrame frame = new JFrame("FRAME");
-        frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
-
-        frame.add(panel);
-
-        frame.pack();
-        frame.setVisible(true);
-        Thread.sleep(5000);
+//        JLabel label = new JLabel(new ImageIcon(image));
+//
+//        panel.add(label);
+//
+//        JFrame.setDefaultLookAndFeelDecorated(true);
+//        JFrame frame = new JFrame("FRAME");
+//        frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
+//
+//        frame.add(panel);
+//
+//        frame.pack();
+//        frame.setVisible(true);
+//        Thread.sleep(5000);
 
     }
 
