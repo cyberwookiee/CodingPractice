@@ -12,8 +12,8 @@ Project containing coding practice problems.
 ### Building in a docker container
 
   1. Clone this repo.
-  2. In a terminal, navigate to the cloned repo and run `docker build -t CodingPractice .`
-  3. Run `docker run -t CodingPractice`.  This will build the project and run all tests. 
+  2. In a terminal, navigate to the cloned repo and run `docker build -t codingpractice .`
+  3. Run `docker run -t codingpracticee`.  This will build the project and run all tests. 
   
   
 ## Running
